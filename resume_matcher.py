@@ -23,7 +23,7 @@ try:
 except Exception:
     USE_GEMINI = False
 
-GEMINI_KEY = os.getenv("AIzaSyD9nLqtNRf4h3VGz8nUQU1Vv1yHiCS6_0g")
+GEMINI_KEY = os.getenv("AIzaSyD9nLqtNRf4h3VGz8nUQU1Vv1yHiCS6")
 MODEL = os.getenv("GEMINI_MODEL", "gemini-1.5-flash")  # change if you have access to different model
 
 # Determine runtime mode
