@@ -1,0 +1,4 @@
+Software Engineer with 3 years of experience in Python development and server automation. 
+Developed deployment scripts and automated build processes using Jenkins.
+Worked with Docker containers for microservices deployment. 
+Basic exposure to AWS services and Kubernetes for small projects.
